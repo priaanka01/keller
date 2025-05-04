@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 int a[10][10], n;
-
 void adj(int k) {
     int j;
     printf("Adjacent nodes of root node %d::\n", k);
@@ -12,12 +10,10 @@ void adj(int k) {
     }
     printf("\n");
 }
-
 int main() {
     int i, j, root;
     printf("Enter number of nodes: ");
     scanf("%d", &n);
-
     printf("Enter adjacency matrix\n");
     for (i = 1; i <= n; i++) {
         for (j = 1; j <= n; j++) {
@@ -25,11 +21,8 @@ int main() {
             scanf("%d", &a[i][j]);
         }
     }
-
     printf("Enter root node: ");
     scanf("%d", &root);
-
     adj(root);
-
     return 0;
 }
