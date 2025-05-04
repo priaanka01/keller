@@ -26,9 +26,9 @@ for(i=0;i<n;i++){
     count=0;
     }
 }
-printf("\n Data after stuffing:\n0111110");
+printf("\n Data after stuffing:\n");
 for(i=0;i<n;i++){
     printf("%d" ,a[i]);
 }
-printf("0111110\n");
+printf("\n");
 }
