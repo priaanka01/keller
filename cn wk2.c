@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 int main() {
     int i, j, keylen, msglen;
     char input[100], key[30], temp[30], quot[100], rem[30], key1[30];
@@ -55,4 +54,3 @@ int main() {
     }
     printf("\n");
 }
-
