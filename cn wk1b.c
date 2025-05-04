@@ -23,7 +23,7 @@ int main() {
     while (i < strlen(b)) {
 
         if ((b[i] == 'd' || b[i] == 'D') &&
-            (b[i+1] == 'i' || b[i+1] == 'I') &&
+            (b[i+1] == 'l' || b[i+1] == 'L') &&
             (b[i+2] == 'e' || b[i+2] == 'E')) {
 
             printf("DLE");
