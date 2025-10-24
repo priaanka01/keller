@@ -1,0 +1,11 @@
+Post_ID,Post_Date,Type,Category,Text,Post_Length,Hashtags_Count,Media,Video_Length_sec,Likes,Love,Wow, Haha,Sad,Angry,Comments_Count,Comments_Text,Shares,Reach,Impressions,Clicks,CTR,CPC,Post_Hour,DayOfWeek,Paid,Country,Language,Audience_AgeTopGroup
+1,2025-09-01,Photo,Education,"How to study effectively: 7 tips",33,1,Image,0,120,15,5,2,0,1,25,"Great tips!,Loved it","10",2500,2600,120,0.046,0.25,09,Monday, FALSE,India,en,18-24
+2,2025-09-02,Video,Entertainment,"Behind the scenes video",22,0,Video,45,200,20,10,5,2,1,40,"Hilarious!,Where's part 2?","30",5000,5200,400,0.077,0.18,19,Tuesday, TRUE,India,en,25-34
+3,2025-09-03,Link,News,"Breaking: local event summary",30,2,Link,0,80,5,1,0,0,0,10,"Thanks for sharing","5",1500,1550,30,0.019,0.50,13,Wednesday, FALSE,India,en,35-44
+4,2025-09-04,Photo,Health,"5 foods to boost immunity",26,3,Image,0,300,40,8,3,1,0,55,"Awesome!,Saved","20",8000,8100,650,0.080,0.12,11,Thursday, TRUE,India,en,18-24
+5,2025-09-05,Video,Education,"Lecture excerpt: machine learning",45,0,Video,180,500,90,20,3,2,1,110,"So informative!,Thanks!","50",12000,12200,900,0.074,0.20,16,Friday, FALSE,USA,en,25-34
+6,2025-09-06,Photo,Entertainment,"Meme: Monday mood",12,1,Image,0,50,4,2,10,0,0,5,"LOL!,Relatable","3",1000,1050,50,0.048,0.40,08,Saturday, FALSE,India,en,18-24
+7,2025-09-07,Link,Education,"Research paper: study hacks",40,2,Link,0,75,10,1,0,0,0,12,"Interesting read","6",1700,1720,40,0.023,0.45,10,Sunday, FALSE,USA,en,35-44
+8,2025-09-08,Video,Health,"Quick workout routine",18,0,Video,60,400,60,10,1,0,0,70,"Tried it!,Good routine","25",9000,9200,700,0.076,0.14,07,Monday, TRUE,India,en,25-34
+9,2025-09-09,Photo,News,"Community cleanup celebration",28,2,Image,0,130,12,3,0,0,0,18,"Well done!,Proud","12",3300,3400,200,0.059,0.22,18,Tuesday, FALSE,India,en,18-24
+10,2025-09-10,Video,Entertainment,"Trailer: upcoming show",50,4,Video,120,800,100,30,5,2,0,200,"Can't wait!,Amazing","80",20000,20300,1500,0.074,0.10,20,Wednesday, TRUE,USA,en,25-34
